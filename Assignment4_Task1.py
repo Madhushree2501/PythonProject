@@ -1,0 +1,7 @@
+try:
+    file = open("sample.txt","rt")
+    content = file.read()
+    print(content)
+    file.close()
+except FileNotFoundError:
+    print("The file 'sample.txt' was not found")
