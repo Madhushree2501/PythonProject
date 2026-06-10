@@ -1,0 +1,11 @@
+Welcome to Python File and exception handling
+Two types of file, text file and binary file
+Syntax of opening file and modes details,
+open(file_name, modes to open)
+r-Read a file
+w-Write a file
+x-create a file
+a-append a file
+t-text file
+b-binary file
+Ex: open("sample.txt", "xt")
