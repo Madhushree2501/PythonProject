@@ -1,3 +1,4 @@
+# Read a file if exists or else thrown an error
 try:
     file = open("sample.txt","rt")
     content = file.read()

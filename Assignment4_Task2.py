@@ -1,3 +1,4 @@
+# Takes the input to file from user and append the file and display the final content
 user_input = input("Enter text to write to file:")
 with open("output.txt", "w") as file:
     file.write(user_input + "\n")

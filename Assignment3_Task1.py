@@ -4,6 +4,7 @@
 num = int(input("Enter the number: "))
 #Here defining the recursive function to check upto base
 def factorial(n):
+    """Recursively calling the factorial function"""
     if n == 0 or n == 1:
         return 1
     return n * factorial(n-1)
