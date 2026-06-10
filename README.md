@@ -3,10 +3,12 @@ Prerequisites to Python
 * Python installer
 * PyCharm
 * git 
+
 Installation steps
 * Go to browser , search python.org - Download the latest release - open it and install it. 
 * Go to browser , search JetBrains - click PyCharm -Download the .exe file - open it and install it.
 * Go to browser , search git download - Download the git in www.git-scm.com - Search the github.com and register for account and create the new repository
+
 Files Description
 * Assignment1-Task1: Perform an Arithmetic Operation(+, _ ,*, /).
 * Assignment1-Task2: Creating the personalized greeting.
@@ -16,6 +18,8 @@ Files Description
 * Assignment3-Task2: Math functions using math module.
 * Assignment4-Task1: Read a file if exist or else thrown an error.
 * Assignment4-Task2: Takes the input to the file from user and append the file and display the final content.
+* Assignment5-Task1: Create a Dictionary of Student Marks and display the student marks as per the user input.
+* Assignment5-Task2: List slicing and reversing.
 
 
 
