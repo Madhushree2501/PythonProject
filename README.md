@@ -7,10 +7,21 @@ Prerequisites to Python
 Installation steps
 * Go to browser , search python.org - Download the latest release - open it and install it. 
 * Go to browser , search JetBrains - click PyCharm -Download the .exe file - open it and install it.
-* Go to browser , search git download - Download the git in www.git-scm.com - Search the github.com and register for account and create the new repository
+* Go to browser , search git download - Download the git in www.git-scm.com - Search the https://github.com and register for account and create the new repository 
+
+How to run
+* In PyCharm: Open the file-click Shift-F10 or click Run button
+* In console: runfile('Provide Absolute file path')
+* In command prompt and PyCharm terminal: python filename.py 
+
+How to commit the changes to Git through terminal
+* git status 
+* git add . 
+* git commit -m "some message"
+* git push --set-upstream origin your_branch
 
 Files Description
-* Assignment1-Task1: Perform an Arithmetic Operation(+, _ ,*, /).
+* Assignment1-Task1: Perform an Arithmetic Operation(+, _, *, /).
 * Assignment1-Task2: Creating the personalized greeting.
 * Assignment2-Task1: Even or Odd Checker - Takes user input and determines if the number is even or odd.
 * Assignment2-Task2: Sum of the integers from 1 to 50.
